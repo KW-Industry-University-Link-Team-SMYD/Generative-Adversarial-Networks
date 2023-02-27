@@ -25,12 +25,14 @@ SMYD
 ```
 # Project Information
 ## Requirements
-* Python 3.9.5
-* OpenCV 4.6.0.66
-* Pytorch 1.12.1
-* Torchvision 0.13.1
-* Numpy 1.22.3
-* Scipy 1.7.1
+```
+Python 3.9.5
+OpenCV 4.6.0.66
+Pytorch 1.12.1
+Torchvision 0.13.1
+Numpy 1.22.3
+Scipy 1.7.1
+```
 
 ## Prerequistes
 * node.js
