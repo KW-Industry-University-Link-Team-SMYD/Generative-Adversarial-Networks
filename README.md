@@ -39,9 +39,9 @@ SMYD
 
 ## Build & Run
 ```
-1. git clone
-2. npm install 
-3. npm run start
+$ git clone
+$ npm install 
+$ npm run start
 ```
 ##  구현 기능  
 ### 1. Pre-processing  
